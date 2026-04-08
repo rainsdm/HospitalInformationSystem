@@ -1,0 +1,9 @@
+[submodule "Web"]
+	path = Web
+	url = git@github.com:rainsdm/HIS-Web-patient.git
+[submodule "Db"]
+	path = Db
+	url = git@github.com:rainsdm/HIS-Db.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:rainsdm/HIS-Server.git
